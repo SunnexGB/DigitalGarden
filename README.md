@@ -7,7 +7,7 @@ See the README in the plugin repo for information on how to set it up.
 
 [![Join my telegram channel](https://github.com/SunnexGB/My-assets/blob/main/join_tg.png?raw=true)](https://t.me/H_SunMods)
 
-[![My Module](https://r2.fakecrime.bio/uploads/5a53da6e-111c-4174-a468-e71b922075d8.jpg)](https://github.com/SunnexGB/Heroku-Modules)
+[![My Module](https://r2.fakecrime.bio/uploads/5a53da6e-111c-4174-a468-e71b922075d8.jpg)](https://github.com/SunnexGB/Heroku-Modules/raw/refs/heads/main/DigitalGarden.py)
 
 [![github original repository](https://github.com/SunnexGB/My-assets/blob/main/gh_orig_repo.png?raw=true)](https://github.com/oleeskild/digitalgarden)
 
